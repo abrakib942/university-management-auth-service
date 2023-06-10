@@ -1,0 +1,12 @@
+Sat Jun 10 2023 0:4:42 } [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "number",
+    "received": "string",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected number, received string"
+  }
+]
