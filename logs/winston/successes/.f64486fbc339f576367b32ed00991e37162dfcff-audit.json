@@ -164,6 +164,16 @@
             "date": 1686665278172,
             "name": "D:\\Apollo PH level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-20-success.log",
             "hash": "b8f8b1ebd64791a9ed33ca326badd3698c78f8ac629aebc4c0629889827e4f24"
+        },
+        {
+            "date": 1686678545915,
+            "name": "D:\\Apollo PH level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-13-06-23-success.log",
+            "hash": "9a8e02344961b99f4c5bc2a5b9de5289e744d1d94aad05bfdb30ee12f6d8f3bb"
+        },
+        {
+            "date": 1686679820097,
+            "name": "D:\\Apollo PH level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-14-06-00-success.log",
+            "hash": "0dee5f79e1328a15ab77ab1b55a295619fd154d0acabfb00c5b0edfb6e2e48bc"
         }
     ],
     "hashType": "sha256"
