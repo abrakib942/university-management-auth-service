@@ -1,0 +1,38 @@
+Tue Jun 13 2023 20:17:21 } [PH] error: globalErrorHandler ~ [
+  {
+    "code": "custom",
+    "message": "Either both title and code should be provided or neither",
+    "path": []
+  }
+]
+Tue Jun 13 2023 20:22:5 } [PH] error: globalErrorHandler ~ Invalid Semester Code
+Tue Jun 13 2023 20:22:23 } [PH] error: globalErrorHandler ~ [
+  {
+    "received": "summer",
+    "code": "invalid_enum_value",
+    "options": [
+      "Autumn",
+      "Summer",
+      "Fall"
+    ],
+    "path": [
+      "body",
+      "title"
+    ],
+    "message": "Invalid enum value. Expected 'Autumn' | 'Summer' | 'Fall', received 'summer'"
+  }
+]
+Tue Jun 13 2023 20:22:32 } [PH] error: globalErrorHandler ~ Invalid Semester Code
+Tue Jun 13 2023 20:27:13 } [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "number",
+    "path": [
+      "body",
+      "year"
+    ],
+    "message": "Expected string, received number"
+  }
+]
+Tue Jun 13 2023 20:35:30 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ Invalid Semester Code
