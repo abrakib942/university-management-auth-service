@@ -1,0 +1,39 @@
+Tue Jun 13 2023 11:58:20 } [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Tue Jun 13 2023 11:58:22 } [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Tue Jun 13 2023 11:58:43 } [PH] error: globalErrorHandler ~ Cannot set properties of undefined (setting 'id')
+Tue Jun 13 2023 11:59:7 } [PH] error: globalErrorHandler ~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "role"
+    ],
+    "message": "role is required"
+  }
+]
+Tue Jun 13 2023 11:59:16 } [PH] error: globalErrorHandler ~ Academic semester is already exist !
+Tue Jun 13 2023 11:59:25 } [PH] error: globalErrorHandler ~ Invalid Semester Code
