@@ -1,0 +1,12 @@
+Wed Jun 14 2023 18:23:4 } [PH] error: 🐱‍🏍 globalErrorHandler ~~ [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "body",
+      "academicFaculty"
+    ],
+    "message": "Academic Faculty is required"
+  }
+]
